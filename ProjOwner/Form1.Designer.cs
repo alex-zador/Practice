@@ -58,7 +58,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Главная форма";
+            this.Text = "Главная форма 1";
             this.ResumeLayout(false);
 
         }
